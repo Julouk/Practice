@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    color: #333;
+}
+
+.bg-purple {
+    background-color: #6a0dad; 
+}
+
+header nav a {
+    color: rgb(255, 255, 255);
+    margin-left: 15px;
+    text-decoration: none;
+}
+
+header nav a:hover {
+    text-decoration: underline;
+}
+
+img {
+    margin-top: 20px;
+}
